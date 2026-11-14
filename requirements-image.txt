@@ -1,0 +1,3 @@
+# Optional dependencies for ml_api/train_image_model.py; kept separate from
+# the lightweight sensor API environment.
+tensorflow>=2.15,<3.0

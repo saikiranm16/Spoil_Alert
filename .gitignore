@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/training_data.csv
+data/logs/*.csv
+firmware/SPOIL_ALERT_ESP32_ML_Ready/secrets.h
+docs/ENGINEERING_AUDIT_REPORT.md
+*.log
+.env
+.env.*

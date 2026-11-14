@@ -1,0 +1,251 @@
+fruitIndex,temperature,humidity,mq135,mq3,mq4,label,sample_id,item,minute,data_source
+0,3.8,91.5,10.8,1.31,494.7,Fresh,synthetic-00,Apple,0,simulated_workbook_profile
+0,6.2,92,17.8,1.9,625.8,Fresh,synthetic-00,Apple,1,simulated_workbook_profile
+0,11.1,93.09999999999999,31.9,3.08,887.9,Early,synthetic-00,Apple,2,simulated_workbook_profile
+0,15.1,94,43.6,4.07,1106.4,Medium,synthetic-00,Apple,3,simulated_workbook_profile
+0,20,95,57.6,5.26,1368.5,Spoiled,synthetic-00,Apple,4,simulated_workbook_profile
+1,19.8,88,15.3,1.1,569.6,Fresh,synthetic-01,Banana,0,simulated_workbook_profile
+1,21.3,89,24.3,1.6,734.4,Fresh,synthetic-01,Banana,1,simulated_workbook_profile
+1,24.4,91.2,42.4,2.6,1063.9,Early,synthetic-01,Banana,2,simulated_workbook_profile
+1,26.9,92.90000000000001,57.4,3.43,1338.5,Medium,synthetic-01,Banana,3,simulated_workbook_profile
+1,30,95,75.5,4.43,1668,Spoiled,synthetic-01,Banana,4,simulated_workbook_profile
+2,10.9,91.5,9.699999999999999,0.38,453.1,Fresh,synthetic-02,Tomato,0,simulated_workbook_profile
+2,12.6,92,16.2,0.55,565.5,Fresh,synthetic-02,Tomato,1,simulated_workbook_profile
+2,15.9,93.09999999999999,29.3,0.9,790.1,Early,synthetic-02,Tomato,2,simulated_workbook_profile
+2,18.7,94,40.1,1.18,977.4,Medium,synthetic-02,Tomato,3,simulated_workbook_profile
+2,22,95,53.2,1.53,1202,Spoiled,synthetic-02,Tomato,4,simulated_workbook_profile
+3,7.9,86.5,7.2,0.48,386.6,Fresh,synthetic-03,Orange,0,simulated_workbook_profile
+3,10,87.8,12.6,0.7,471.4,Fresh,synthetic-03,Orange,1,simulated_workbook_profile
+3,14.2,90.3,23.5,1.14,641.2,Early,synthetic-03,Orange,2,simulated_workbook_profile
+3,17.8,92.5,32.5,1.5,782.7,Medium,synthetic-03,Orange,3,simulated_workbook_profile
+3,22,95,43.4,1.94,952.4,Spoiled,synthetic-03,Orange,4,simulated_workbook_profile
+4,1.2,66.5,45.1,0.25,320,Fresh,synthetic-04,Onion,0,simulated_workbook_profile
+4,4.3,68.5,67.59999999999999,0.36,372.4,Fresh,synthetic-04,Onion,1,simulated_workbook_profile
+4,10.6,72.59999999999999,112.6,0.59,477.3,Early,synthetic-04,Onion,2,simulated_workbook_profile
+4,15.8,76,150,0.78,564.6,Medium,synthetic-04,Onion,3,simulated_workbook_profile
+4,22,80,195,1.01,669.5,Spoiled,synthetic-04,Onion,4,simulated_workbook_profile
+5,5.8,91.5,5.2,0.19,353.3,Fresh,synthetic-05,Potato,0,simulated_workbook_profile
+5,7.9,92,9.699999999999999,0.27,420.7,Fresh,synthetic-05,Potato,1,simulated_workbook_profile
+5,12.2,93.09999999999999,18.8,0.45,555.5,Early,synthetic-05,Potato,2,simulated_workbook_profile
+5,15.7,94,26.3,0.59,667.8,Medium,synthetic-05,Potato,3,simulated_workbook_profile
+5,20,95,35.3,0.77,802.6,Spoiled,synthetic-05,Potato,4,simulated_workbook_profile
+6,19.8,88,15.3,1.1,569.6,Fresh,synthetic-06,Mango,0,simulated_workbook_profile
+6,21.3,89,24.3,1.6,734.4,Fresh,synthetic-06,Mango,1,simulated_workbook_profile
+6,24.4,91.2,42.4,2.6,1063.9,Early,synthetic-06,Mango,2,simulated_workbook_profile
+6,26.9,92.90000000000001,57.4,3.43,1338.5,Medium,synthetic-06,Mango,3,simulated_workbook_profile
+6,30,95,75.5,4.43,1668,Spoiled,synthetic-06,Mango,4,simulated_workbook_profile
+7,19.8,88,15.3,1.1,569.6,Fresh,synthetic-07,Papaya,0,simulated_workbook_profile
+7,21.3,89,24.3,1.6,734.4,Fresh,synthetic-07,Papaya,1,simulated_workbook_profile
+7,24.4,91.2,42.4,2.6,1063.9,Early,synthetic-07,Papaya,2,simulated_workbook_profile
+7,26.9,92.90000000000001,57.4,3.43,1338.5,Medium,synthetic-07,Papaya,3,simulated_workbook_profile
+7,30,95,75.5,4.43,1668,Spoiled,synthetic-07,Papaya,4,simulated_workbook_profile
+8,1.2,91.5,5.9,2.37,578,Fresh,synthetic-08,Grapes,0,simulated_workbook_profile
+8,3.3,92,10.7,3.44,746.5,Fresh,synthetic-08,Grapes,1,simulated_workbook_profile
+8,7.4,93.09999999999999,20.3,5.58,1083.5,Early,synthetic-08,Grapes,2,simulated_workbook_profile
+8,10.9,94,28.4,7.36,1364.3,Medium,synthetic-08,Grapes,3,simulated_workbook_profile
+8,15,95,38,9.5,1701.3,Spoiled,synthetic-08,Grapes,4,simulated_workbook_profile
+9,1.2,91.5,5.9,2.37,578,Fresh,synthetic-09,Strawberry,0,simulated_workbook_profile
+9,3.3,92,10.7,3.44,746.5,Fresh,synthetic-09,Strawberry,1,simulated_workbook_profile
+9,7.4,93.09999999999999,20.3,5.58,1083.5,Early,synthetic-09,Strawberry,2,simulated_workbook_profile
+9,10.9,94,28.4,7.36,1364.3,Medium,synthetic-09,Strawberry,3,simulated_workbook_profile
+9,15,95,38,9.5,1701.3,Spoiled,synthetic-09,Strawberry,4,simulated_workbook_profile
+10,11.5,86.5,5,0.87,802.6,Fresh,synthetic-10,Watermelon,0,simulated_workbook_profile
+10,13.5,87.8,9.4,1.26,1072.2,Fresh,synthetic-10,Watermelon,1,simulated_workbook_profile
+10,17.6,90.3,18.2,2.05,1611.4,Early,synthetic-10,Watermelon,2,simulated_workbook_profile
+10,20.9,92.5,25.6,2.71,2060.8,Medium,synthetic-10,Watermelon,3,simulated_workbook_profile
+10,25,95,34.4,3.5,2600,Spoiled,synthetic-10,Watermelon,4,simulated_workbook_profile
+11,11.5,86.5,5,0.87,802.6,Fresh,synthetic-11,Pineapple,0,simulated_workbook_profile
+11,13.5,87.8,9.4,1.26,1072.2,Fresh,synthetic-11,Pineapple,1,simulated_workbook_profile
+11,17.6,90.3,18.2,2.05,1611.4,Early,synthetic-11,Pineapple,2,simulated_workbook_profile
+11,20.9,92.5,25.6,2.71,2060.8,Medium,synthetic-11,Pineapple,3,simulated_workbook_profile
+11,25,95,34.4,3.5,2600,Spoiled,synthetic-11,Pineapple,4,simulated_workbook_profile
+12,12.9,86.5,11.9,0.9399999999999999,494.7,Fresh,synthetic-12,Guava,0,simulated_workbook_profile
+12,14.7,87.8,19.4,1.37,625.8,Fresh,synthetic-12,Guava,1,simulated_workbook_profile
+12,18.3,90.3,34.5,2.23,887.9,Early,synthetic-12,Guava,2,simulated_workbook_profile
+12,21.4,92.5,47,2.94,1106.4,Medium,synthetic-12,Guava,3,simulated_workbook_profile
+12,25,95,62.1,3.79,1368.5,Spoiled,synthetic-12,Guava,4,simulated_workbook_profile
+13,3.8,91.5,10.8,1.31,494.7,Fresh,synthetic-13,Pear,0,simulated_workbook_profile
+13,6.2,92,17.8,1.9,625.8,Fresh,synthetic-13,Pear,1,simulated_workbook_profile
+13,11.1,93.09999999999999,31.9,3.08,887.9,Early,synthetic-13,Pear,2,simulated_workbook_profile
+13,15.1,94,43.6,4.07,1106.4,Medium,synthetic-13,Pear,3,simulated_workbook_profile
+13,20,95,57.6,5.26,1368.5,Spoiled,synthetic-13,Pear,4,simulated_workbook_profile
+14,3.8,91.5,10.8,1.31,494.7,Fresh,synthetic-14,Peach,0,simulated_workbook_profile
+14,6.2,92,17.8,1.9,625.8,Fresh,synthetic-14,Peach,1,simulated_workbook_profile
+14,11.1,93.09999999999999,31.9,3.08,887.9,Early,synthetic-14,Peach,2,simulated_workbook_profile
+14,15.1,94,43.6,4.07,1106.4,Medium,synthetic-14,Peach,3,simulated_workbook_profile
+14,20,95,57.6,5.26,1368.5,Spoiled,synthetic-14,Peach,4,simulated_workbook_profile
+15,3.8,91.5,10.8,1.31,494.7,Fresh,synthetic-15,Plum,0,simulated_workbook_profile
+15,6.2,92,17.8,1.9,625.8,Fresh,synthetic-15,Plum,1,simulated_workbook_profile
+15,11.1,93.09999999999999,31.9,3.08,887.9,Early,synthetic-15,Plum,2,simulated_workbook_profile
+15,15.1,94,43.6,4.07,1106.4,Medium,synthetic-15,Plum,3,simulated_workbook_profile
+15,20,95,57.6,5.26,1368.5,Spoiled,synthetic-15,Plum,4,simulated_workbook_profile
+16,12.9,86.5,11.9,0.9399999999999999,494.7,Fresh,synthetic-16,Kiwi,0,simulated_workbook_profile
+16,14.7,87.8,19.4,1.37,625.8,Fresh,synthetic-16,Kiwi,1,simulated_workbook_profile
+16,18.3,90.3,34.5,2.23,887.9,Early,synthetic-16,Kiwi,2,simulated_workbook_profile
+16,21.4,92.5,47,2.94,1106.4,Medium,synthetic-16,Kiwi,3,simulated_workbook_profile
+16,25,95,62.1,3.79,1368.5,Spoiled,synthetic-16,Kiwi,4,simulated_workbook_profile
+17,7.9,86.5,7.2,0.48,386.6,Fresh,synthetic-17,Lemon,0,simulated_workbook_profile
+17,10,87.8,12.6,0.7,471.4,Fresh,synthetic-17,Lemon,1,simulated_workbook_profile
+17,14.2,90.3,23.5,1.14,641.2,Early,synthetic-17,Lemon,2,simulated_workbook_profile
+17,17.8,92.5,32.5,1.5,782.7,Medium,synthetic-17,Lemon,3,simulated_workbook_profile
+17,22,95,43.4,1.94,952.4,Spoiled,synthetic-17,Lemon,4,simulated_workbook_profile
+18,7.9,86.5,7.2,0.48,386.6,Fresh,synthetic-18,Lime,0,simulated_workbook_profile
+18,10,87.8,12.6,0.7,471.4,Fresh,synthetic-18,Lime,1,simulated_workbook_profile
+18,14.2,90.3,23.5,1.14,641.2,Early,synthetic-18,Lime,2,simulated_workbook_profile
+18,17.8,92.5,32.5,1.5,782.7,Medium,synthetic-18,Lime,3,simulated_workbook_profile
+18,22,95,43.4,1.94,952.4,Spoiled,synthetic-18,Lime,4,simulated_workbook_profile
+19,7.9,86.5,7.2,0.48,386.6,Fresh,synthetic-19,Pomegranate,0,simulated_workbook_profile
+19,10,87.8,12.6,0.7,471.4,Fresh,synthetic-19,Pomegranate,1,simulated_workbook_profile
+19,14.2,90.3,23.5,1.14,641.2,Early,synthetic-19,Pomegranate,2,simulated_workbook_profile
+19,17.8,92.5,32.5,1.5,782.7,Medium,synthetic-19,Pomegranate,3,simulated_workbook_profile
+19,22,95,43.4,1.94,952.4,Spoiled,synthetic-19,Pomegranate,4,simulated_workbook_profile
+20,10.9,91.5,9.699999999999999,0.38,453.1,Fresh,synthetic-20,Cucumber,0,simulated_workbook_profile
+20,12.6,92,16.2,0.55,565.5,Fresh,synthetic-20,Cucumber,1,simulated_workbook_profile
+20,15.9,93.09999999999999,29.3,0.9,790.1,Early,synthetic-20,Cucumber,2,simulated_workbook_profile
+20,18.7,94,40.1,1.18,977.4,Medium,synthetic-20,Cucumber,3,simulated_workbook_profile
+20,22,95,53.2,1.53,1202,Spoiled,synthetic-20,Cucumber,4,simulated_workbook_profile
+21,5.8,91.5,5.2,0.19,353.3,Fresh,synthetic-21,Carrot,0,simulated_workbook_profile
+21,7.9,92,9.699999999999999,0.27,420.7,Fresh,synthetic-21,Carrot,1,simulated_workbook_profile
+21,12.2,93.09999999999999,18.8,0.45,555.5,Early,synthetic-21,Carrot,2,simulated_workbook_profile
+21,15.7,94,26.3,0.59,667.8,Medium,synthetic-21,Carrot,3,simulated_workbook_profile
+21,20,95,35.3,0.77,802.6,Spoiled,synthetic-21,Carrot,4,simulated_workbook_profile
+22,1.2,95.90000000000001,24.2,0.1,411.5,Fresh,synthetic-22,Cabbage,0,simulated_workbook_profile
+22,3.3,95.8,37.2,0.15,505.1,Fresh,synthetic-22,Cabbage,1,simulated_workbook_profile
+22,7.4,95.5,63.3,0.25,692.4,Early,synthetic-22,Cabbage,2,simulated_workbook_profile
+22,10.9,95.3,85.09999999999999,0.33,848.4,Medium,synthetic-22,Cabbage,3,simulated_workbook_profile
+22,15,95,111.2,0.43,1035.6,Spoiled,synthetic-22,Cabbage,4,simulated_workbook_profile
+23,1.2,95.90000000000001,24.2,0.1,411.5,Fresh,synthetic-23,Cauliflower,0,simulated_workbook_profile
+23,3.3,95.8,37.2,0.15,505.1,Fresh,synthetic-23,Cauliflower,1,simulated_workbook_profile
+23,7.4,95.5,63.3,0.25,692.4,Early,synthetic-23,Cauliflower,2,simulated_workbook_profile
+23,10.9,95.3,85.09999999999999,0.33,848.4,Medium,synthetic-23,Cauliflower,3,simulated_workbook_profile
+23,15,95,111.2,0.43,1035.6,Spoiled,synthetic-23,Cauliflower,4,simulated_workbook_profile
+24,1.2,95.90000000000001,24.2,0.1,411.5,Fresh,synthetic-24,Spinach,0,simulated_workbook_profile
+24,3.3,95.8,37.2,0.15,505.1,Fresh,synthetic-24,Spinach,1,simulated_workbook_profile
+24,7.4,95.5,63.3,0.25,692.4,Early,synthetic-24,Spinach,2,simulated_workbook_profile
+24,10.9,95.3,85.09999999999999,0.33,848.4,Medium,synthetic-24,Spinach,3,simulated_workbook_profile
+24,15,95,111.2,0.43,1035.6,Spoiled,synthetic-24,Spinach,4,simulated_workbook_profile
+25,1.2,95.90000000000001,24.2,0.1,411.5,Fresh,synthetic-25,Lettuce,0,simulated_workbook_profile
+25,3.3,95.8,37.2,0.15,505.1,Fresh,synthetic-25,Lettuce,1,simulated_workbook_profile
+25,7.4,95.5,63.3,0.25,692.4,Early,synthetic-25,Lettuce,2,simulated_workbook_profile
+25,10.9,95.3,85.09999999999999,0.33,848.4,Medium,synthetic-25,Lettuce,3,simulated_workbook_profile
+25,15,95,111.2,0.43,1035.6,Spoiled,synthetic-25,Lettuce,4,simulated_workbook_profile
+26,1.2,95.90000000000001,24.2,0.1,411.5,Fresh,synthetic-26,Broccoli,0,simulated_workbook_profile
+26,3.3,95.8,37.2,0.15,505.1,Fresh,synthetic-26,Broccoli,1,simulated_workbook_profile
+26,7.4,95.5,63.3,0.25,692.4,Early,synthetic-26,Broccoli,2,simulated_workbook_profile
+26,10.9,95.3,85.09999999999999,0.33,848.4,Medium,synthetic-26,Broccoli,3,simulated_workbook_profile
+26,15,95,111.2,0.43,1035.6,Spoiled,synthetic-26,Broccoli,4,simulated_workbook_profile
+27,10.9,91.5,9.699999999999999,0.38,453.1,Fresh,synthetic-27,Capsicum (Bell Pepper),0,simulated_workbook_profile
+27,12.6,92,16.2,0.55,565.5,Fresh,synthetic-27,Capsicum (Bell Pepper),1,simulated_workbook_profile
+27,15.9,93.09999999999999,29.3,0.9,790.1,Early,synthetic-27,Capsicum (Bell Pepper),2,simulated_workbook_profile
+27,18.7,94,40.1,1.18,977.4,Medium,synthetic-27,Capsicum (Bell Pepper),3,simulated_workbook_profile
+27,22,95,53.2,1.53,1202,Spoiled,synthetic-27,Capsicum (Bell Pepper),4,simulated_workbook_profile
+28,10.9,91.5,9.699999999999999,0.38,453.1,Fresh,synthetic-28,Green Chili,0,simulated_workbook_profile
+28,12.6,92,16.2,0.55,565.5,Fresh,synthetic-28,Green Chili,1,simulated_workbook_profile
+28,15.9,93.09999999999999,29.3,0.9,790.1,Early,synthetic-28,Green Chili,2,simulated_workbook_profile
+28,18.7,94,40.1,1.18,977.4,Medium,synthetic-28,Green Chili,3,simulated_workbook_profile
+28,22,95,53.2,1.53,1202,Spoiled,synthetic-28,Green Chili,4,simulated_workbook_profile
+29,1.2,66.5,45.1,0.25,320,Fresh,synthetic-29,Garlic,0,simulated_workbook_profile
+29,4.3,68.5,67.59999999999999,0.36,372.4,Fresh,synthetic-29,Garlic,1,simulated_workbook_profile
+29,10.6,72.59999999999999,112.6,0.59,477.3,Early,synthetic-29,Garlic,2,simulated_workbook_profile
+29,15.8,76,150,0.78,564.6,Medium,synthetic-29,Garlic,3,simulated_workbook_profile
+29,22,80,195,1.01,669.5,Spoiled,synthetic-29,Garlic,4,simulated_workbook_profile
+30,5.8,91.5,5.2,0.19,353.3,Fresh,synthetic-30,Ginger,0,simulated_workbook_profile
+30,7.9,92,9.699999999999999,0.27,420.7,Fresh,synthetic-30,Ginger,1,simulated_workbook_profile
+30,12.2,93.09999999999999,18.8,0.45,555.5,Early,synthetic-30,Ginger,2,simulated_workbook_profile
+30,15.7,94,26.3,0.59,667.8,Medium,synthetic-30,Ginger,3,simulated_workbook_profile
+30,20,95,35.3,0.77,802.6,Spoiled,synthetic-30,Ginger,4,simulated_workbook_profile
+31,5.8,91.5,5.2,0.19,353.3,Fresh,synthetic-31,Beetroot,0,simulated_workbook_profile
+31,7.9,92,9.699999999999999,0.27,420.7,Fresh,synthetic-31,Beetroot,1,simulated_workbook_profile
+31,12.2,93.09999999999999,18.8,0.45,555.5,Early,synthetic-31,Beetroot,2,simulated_workbook_profile
+31,15.7,94,26.3,0.59,667.8,Medium,synthetic-31,Beetroot,3,simulated_workbook_profile
+31,20,95,35.3,0.77,802.6,Spoiled,synthetic-31,Beetroot,4,simulated_workbook_profile
+32,5.8,91.5,5.2,0.19,353.3,Fresh,synthetic-32,Radish,0,simulated_workbook_profile
+32,7.9,92,9.699999999999999,0.27,420.7,Fresh,synthetic-32,Radish,1,simulated_workbook_profile
+32,12.2,93.09999999999999,18.8,0.45,555.5,Early,synthetic-32,Radish,2,simulated_workbook_profile
+32,15.7,94,26.3,0.59,667.8,Medium,synthetic-32,Radish,3,simulated_workbook_profile
+32,20,95,35.3,0.77,802.6,Spoiled,synthetic-32,Radish,4,simulated_workbook_profile
+33,10.9,91.5,9.699999999999999,0.38,453.1,Fresh,synthetic-33,Pumpkin,0,simulated_workbook_profile
+33,12.6,92,16.2,0.55,565.5,Fresh,synthetic-33,Pumpkin,1,simulated_workbook_profile
+33,15.9,93.09999999999999,29.3,0.9,790.1,Early,synthetic-33,Pumpkin,2,simulated_workbook_profile
+33,18.7,94,40.1,1.18,977.4,Medium,synthetic-33,Pumpkin,3,simulated_workbook_profile
+33,22,95,53.2,1.53,1202,Spoiled,synthetic-33,Pumpkin,4,simulated_workbook_profile
+34,5.8,91.5,5.2,0.19,353.3,Fresh,synthetic-34,Sweet Potato,0,simulated_workbook_profile
+34,7.9,92,9.699999999999999,0.27,420.7,Fresh,synthetic-34,Sweet Potato,1,simulated_workbook_profile
+34,12.2,93.09999999999999,18.8,0.45,555.5,Early,synthetic-34,Sweet Potato,2,simulated_workbook_profile
+34,15.7,94,26.3,0.59,667.8,Medium,synthetic-34,Sweet Potato,3,simulated_workbook_profile
+34,20,95,35.3,0.77,802.6,Spoiled,synthetic-34,Sweet Potato,4,simulated_workbook_profile
+35,10.9,91.5,9.699999999999999,0.38,453.1,Fresh,synthetic-35,Brinjal (Eggplant),0,simulated_workbook_profile
+35,12.6,92,16.2,0.55,565.5,Fresh,synthetic-35,Brinjal (Eggplant),1,simulated_workbook_profile
+35,15.9,93.09999999999999,29.3,0.9,790.1,Early,synthetic-35,Brinjal (Eggplant),2,simulated_workbook_profile
+35,18.7,94,40.1,1.18,977.4,Medium,synthetic-35,Brinjal (Eggplant),3,simulated_workbook_profile
+35,22,95,53.2,1.53,1202,Spoiled,synthetic-35,Brinjal (Eggplant),4,simulated_workbook_profile
+36,10.9,91.5,9.699999999999999,0.38,453.1,Fresh,synthetic-36,Okra (Lady Finger),0,simulated_workbook_profile
+36,12.6,92,16.2,0.55,565.5,Fresh,synthetic-36,Okra (Lady Finger),1,simulated_workbook_profile
+36,15.9,93.09999999999999,29.3,0.9,790.1,Early,synthetic-36,Okra (Lady Finger),2,simulated_workbook_profile
+36,18.7,94,40.1,1.18,977.4,Medium,synthetic-36,Okra (Lady Finger),3,simulated_workbook_profile
+36,22,95,53.2,1.53,1202,Spoiled,synthetic-36,Okra (Lady Finger),4,simulated_workbook_profile
+37,1.2,91.5,7.5,0.26,453.1,Fresh,synthetic-37,Green Peas,0,simulated_workbook_profile
+37,3.7,92,13,0.38,565.5,Fresh,synthetic-37,Green Peas,1,simulated_workbook_profile
+37,8.800000000000001,93.09999999999999,24,0.63,790.1,Early,synthetic-37,Green Peas,2,simulated_workbook_profile
+37,13,94,33.2,0.84,977.4,Medium,synthetic-37,Green Peas,3,simulated_workbook_profile
+37,18,95,44.2,1.09,1202,Spoiled,synthetic-37,Green Peas,4,simulated_workbook_profile
+38,1.2,91.5,7.5,0.26,453.1,Fresh,synthetic-38,Sweet Corn,0,simulated_workbook_profile
+38,3.7,92,13,0.38,565.5,Fresh,synthetic-38,Sweet Corn,1,simulated_workbook_profile
+38,8.800000000000001,93.09999999999999,24,0.63,790.1,Early,synthetic-38,Sweet Corn,2,simulated_workbook_profile
+38,13,94,33.2,0.84,977.4,Medium,synthetic-38,Sweet Corn,3,simulated_workbook_profile
+38,18,95,44.2,1.09,1202,Spoiled,synthetic-38,Sweet Corn,4,simulated_workbook_profile
+39,1.2,91.5,35.8,0.16,386.6,Fresh,synthetic-39,Mushroom,0,simulated_workbook_profile
+39,3.3,92,54,0.24,471.4,Fresh,synthetic-39,Mushroom,1,simulated_workbook_profile
+39,7.4,93.09999999999999,90.59999999999999,0.39,641.2,Early,synthetic-39,Mushroom,2,simulated_workbook_profile
+39,10.9,94,121,0.52,782.7,Medium,synthetic-39,Mushroom,3,simulated_workbook_profile
+39,15,95,157.5,0.67,952.4,Spoiled,synthetic-39,Mushroom,4,simulated_workbook_profile
+40,19.8,88,15.3,1.1,569.6,Fresh,synthetic-40,Avocado,0,simulated_workbook_profile
+40,21.3,89,24.3,1.6,734.4,Fresh,synthetic-40,Avocado,1,simulated_workbook_profile
+40,24.4,91.2,42.4,2.6,1063.9,Early,synthetic-40,Avocado,2,simulated_workbook_profile
+40,26.9,92.90000000000001,57.4,3.43,1338.5,Medium,synthetic-40,Avocado,3,simulated_workbook_profile
+40,30,95,75.5,4.43,1668,Spoiled,synthetic-40,Avocado,4,simulated_workbook_profile
+41,3.8,91.5,10.8,1.31,494.7,Fresh,synthetic-41,Fig,0,simulated_workbook_profile
+41,6.2,92,17.8,1.9,625.8,Fresh,synthetic-41,Fig,1,simulated_workbook_profile
+41,11.1,93.09999999999999,31.9,3.08,887.9,Early,synthetic-41,Fig,2,simulated_workbook_profile
+41,15.1,94,43.6,4.07,1106.4,Medium,synthetic-41,Fig,3,simulated_workbook_profile
+41,20,95,57.6,5.26,1368.5,Spoiled,synthetic-41,Fig,4,simulated_workbook_profile
+42,3.8,91.5,10.8,1.31,494.7,Fresh,synthetic-42,Apricot,0,simulated_workbook_profile
+42,6.2,92,17.8,1.9,625.8,Fresh,synthetic-42,Apricot,1,simulated_workbook_profile
+42,11.1,93.09999999999999,31.9,3.08,887.9,Early,synthetic-42,Apricot,2,simulated_workbook_profile
+42,15.1,94,43.6,4.07,1106.4,Medium,synthetic-42,Apricot,3,simulated_workbook_profile
+42,20,95,57.6,5.26,1368.5,Spoiled,synthetic-42,Apricot,4,simulated_workbook_profile
+43,1.2,91.5,5.9,2.37,578,Fresh,synthetic-43,Cherry,0,simulated_workbook_profile
+43,3.3,92,10.7,3.44,746.5,Fresh,synthetic-43,Cherry,1,simulated_workbook_profile
+43,7.4,93.09999999999999,20.3,5.58,1083.5,Early,synthetic-43,Cherry,2,simulated_workbook_profile
+43,10.9,94,28.4,7.36,1364.3,Medium,synthetic-43,Cherry,3,simulated_workbook_profile
+43,15,95,38,9.5,1701.3,Spoiled,synthetic-43,Cherry,4,simulated_workbook_profile
+44,1.2,91.5,5.9,2.37,578,Fresh,synthetic-44,Blueberry,0,simulated_workbook_profile
+44,3.3,92,10.7,3.44,746.5,Fresh,synthetic-44,Blueberry,1,simulated_workbook_profile
+44,7.4,93.09999999999999,20.3,5.58,1083.5,Early,synthetic-44,Blueberry,2,simulated_workbook_profile
+44,10.9,94,28.4,7.36,1364.3,Medium,synthetic-44,Blueberry,3,simulated_workbook_profile
+44,15,95,38,9.5,1701.3,Spoiled,synthetic-44,Blueberry,4,simulated_workbook_profile
+45,1.2,91.5,5.9,2.37,578,Fresh,synthetic-45,Raspberry,0,simulated_workbook_profile
+45,3.3,92,10.7,3.44,746.5,Fresh,synthetic-45,Raspberry,1,simulated_workbook_profile
+45,7.4,93.09999999999999,20.3,5.58,1083.5,Early,synthetic-45,Raspberry,2,simulated_workbook_profile
+45,10.9,94,28.4,7.36,1364.3,Medium,synthetic-45,Raspberry,3,simulated_workbook_profile
+45,15,95,38,9.5,1701.3,Spoiled,synthetic-45,Raspberry,4,simulated_workbook_profile
+46,12.9,86.5,11.9,0.9399999999999999,494.7,Fresh,synthetic-46,Jackfruit,0,simulated_workbook_profile
+46,14.7,87.8,19.4,1.37,625.8,Fresh,synthetic-46,Jackfruit,1,simulated_workbook_profile
+46,18.3,90.3,34.5,2.23,887.9,Early,synthetic-46,Jackfruit,2,simulated_workbook_profile
+46,21.4,92.5,47,2.94,1106.4,Medium,synthetic-46,Jackfruit,3,simulated_workbook_profile
+46,25,95,62.1,3.79,1368.5,Spoiled,synthetic-46,Jackfruit,4,simulated_workbook_profile
+47,1.2,91.5,5.9,2.37,578,Fresh,synthetic-47,Lychee,0,simulated_workbook_profile
+47,3.3,92,10.7,3.44,746.5,Fresh,synthetic-47,Lychee,1,simulated_workbook_profile
+47,7.4,93.09999999999999,20.3,5.58,1083.5,Early,synthetic-47,Lychee,2,simulated_workbook_profile
+47,10.9,94,28.4,7.36,1364.3,Medium,synthetic-47,Lychee,3,simulated_workbook_profile
+47,15,95,38,9.5,1701.3,Spoiled,synthetic-47,Lychee,4,simulated_workbook_profile
+48,11.5,86.5,5,0.87,802.6,Fresh,synthetic-48,Dragon Fruit,0,simulated_workbook_profile
+48,13.5,87.8,9.4,1.26,1072.2,Fresh,synthetic-48,Dragon Fruit,1,simulated_workbook_profile
+48,17.6,90.3,18.2,2.05,1611.4,Early,synthetic-48,Dragon Fruit,2,simulated_workbook_profile
+48,20.9,92.5,25.6,2.71,2060.8,Medium,synthetic-48,Dragon Fruit,3,simulated_workbook_profile
+48,25,95,34.4,3.5,2600,Spoiled,synthetic-48,Dragon Fruit,4,simulated_workbook_profile
+49,12.9,86.5,11.9,0.9399999999999999,494.7,Fresh,synthetic-49,Custard Apple,0,simulated_workbook_profile
+49,14.7,87.8,19.4,1.37,625.8,Fresh,synthetic-49,Custard Apple,1,simulated_workbook_profile
+49,18.3,90.3,34.5,2.23,887.9,Early,synthetic-49,Custard Apple,2,simulated_workbook_profile
+49,21.4,92.5,47,2.94,1106.4,Medium,synthetic-49,Custard Apple,3,simulated_workbook_profile
+49,25,95,62.1,3.79,1368.5,Spoiled,synthetic-49,Custard Apple,4,simulated_workbook_profile
